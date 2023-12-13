@@ -1,0 +1,125 @@
+nav img{
+    width: 80px;
+    height: 80px;
+}
+nav ul li{
+    margin: 10px;
+}
+.part1{
+    position: relative;
+}
+.part1 input{
+    position: absolute;
+    top: 20%;
+    right: 10%;
+    width: 300px;
+    height: 45px;
+    border-radius: 10px;
+    background-color: transparent;
+    border: 2px solid white;
+    color: white;
+}
+.part1 button{
+    position: absolute;
+    top: 35%;
+    right: 10%;
+}
+.part1 input::placeholder{
+    color: white;
+    padding-left: 10px;
+}
+.part1 button{
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    border: 2px solid white;
+    background-color: transparent;
+}
+.part1 button i{
+    color: white;
+}
+.part1 h1{
+    position: absolute;
+    bottom: 3%;
+    left: 10%;
+    color: white;
+    font-size: 7vw;
+    opacity: 60%;
+}
+button{
+    width: 150px;
+    height: 50px;
+    background-color: rgb(237, 166, 14);
+    border: none;
+}
+.part2 button{
+ border-radius: 10px;
+}
+.part3 img{
+    width: 60%;
+    height: 80%;
+}
+.part8 img{
+    width: 60%;
+    height: 70%;
+}
+.part8 .card{
+    width: 80%;
+    height: 100%;
+}
+.part3{
+    background-color: rgba(245, 245, 220, 0.833);
+}
+.part4 .card{
+    width: 70%;
+    height: 90%;
+}
+.card:hover{
+    border: 1.5px solid rgb(211, 182, 40);
+}
+.part6{
+    background-color: aliceblue;
+}
+.part7{
+    background-color: aliceblue;
+}
+.part6 img{
+    border-radius: 50px;
+}
+.part7 img{
+    border-radius: 50px;
+}
+.part9{
+    background-color:ghostwhite;
+}
+.part10{
+    background-color:ghostwhite;
+}
+footer img{
+width: 80px;
+height: 80px;
+}
+footer button{
+    border-radius: 10px;
+}
+footer{
+    background-color: #004c57;
+    color: white;
+}
+footer p{
+    font-weight: 300;
+}
+.part11{
+    background-color: #004b57bf;
+    color: white;
+    font-weight: 300;
+}
+#but:hover{
+    border: 2px solid rgb(211, 182, 40);
+}
+header ul li:hover{
+    border-bottom: 2px solid rgb(211, 182, 40);
+    border-radius: 20px;
+    transition-duration: 1s;
+    
+}
